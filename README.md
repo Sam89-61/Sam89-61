@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F75C7E&center=true&vCenter=true&width=940&lines=Bonjour+%F0%9F%91%8B+Je+suis+Samuel;D%C3%A9veloppeur+Web+Full+Stack;%C3%89tudiant+en+BUT+MMI" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🎓 Étudiant en 3e année de BUT MMI | 💻 Développeur Web passionné | 🔐 Cybersécurité</h3>
+<h3 align="center">🎓 Étudiant en 3e année de BUT MMI | 💻 Développeur Web passionné | 🔐 Apprentissage Cybersécurité</h3>
 
 ---
 
