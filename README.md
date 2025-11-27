@@ -63,10 +63,10 @@ Localisation: Normandie, France 🇫🇷
 
 
 
-## 📊 Statistiques GitHub Publique
+## 📊 Statistiques GitHub Publique/Private
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-zeta-46.vercel.app/api/top-langs/?username=Sam89-61&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-zeta-46.vercel.app/api/top-langs/?username=Sam89-61&layout=compact&langs_count=10&theme=radical"/>
   <img height="180em" src="https://github-readme-stats-eight-zeta-46.vercel.app/api?username=Sam89-61&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
