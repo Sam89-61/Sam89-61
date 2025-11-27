@@ -71,7 +71,8 @@ Localisation: Normandie, France 🇫🇷
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam89-61&theme=radical" alt="GitHub Streak"/>
+  ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Projets&query=public_repos&url=https://api.github.com/users/Sam89-61&style=for-the-badge&logo=github)
+
 </div>
 
 ---
