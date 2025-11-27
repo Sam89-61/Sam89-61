@@ -70,12 +70,6 @@ Localisation: Normandie, France 🇫🇷
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam89-61&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-<div align="center">
-  ![Projets Publics](https://img.shields.io/badge/dynamic/json?color=2ea44f&label=Projets%20Publics&query=public_repos&url=https://api.github.com/users/Sam89-61&style=for-the-badge&logo=github&logoColor=white)
-  ![Contributions](https://img.shields.io/badge/dynamic/json?color=orange&label=Contributions%202024&query=$.contributions&url=https://github-contribution-stats.vercel.app/api/?username=Sam89-61&style=for-the-badge)
-  
-</div>
-
 ---
 
 ## 🎯 Objectifs 2026
