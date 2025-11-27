@@ -11,7 +11,6 @@
 ```yaml
 Spécialité: Développement Web Full Stack
 Statut: 🔍 Recherche d'un stage de 4 mois (2 mars - 20 juin 2026)
-Objectif: Renforcer mes compétences en Back-end et élargir mes connaissances en Front-end
 Localisation: Normandie, France 🇫🇷
 ```
 
