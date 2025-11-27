@@ -21,7 +21,7 @@ Localisation: Normandie, France 🇫🇷
 
 > **📍 Stage en Développement Web** : Du 2 mars au 20 juin 2026 (4 mois)
 > 
-> Je recherche activement un stage pour contribuer à des projets concrets et professionnels, avec un focus particulier sur le développement Back-end et l'apprentissage des meilleures pratiques en développement web moderne.
+> Je recherche activement un stage pour contribuer à des projets concrets et professionnels dans le domaine du développement web, avec pour objectif d'en apprendre encore plus sur le développement Back-end et Front-End tout en apprenant les meilleures pratiques en développement web moderne.
 
 ---
 
