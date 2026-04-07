@@ -51,12 +51,23 @@ Localisation: Normandie, France 🇫🇷
 - **Supervision & Logs** : Initiation à l'analyse de trafic réseau et aux logs (Splunk, Wireshark, Nmap).
 
 ### 💻 Développement & Bases de données
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-- **Conteneurisation** : Déploiement et maintenance de services isolés avec Docker.
-- **Scripting & BDD** : Automatisation (Python/Bash), requêtage et administration de bases (PostgreSQL, MySQL, Oracle).
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+- **Développement Front-end** : Création d'interfaces et de sites web modernes (JavaScript, React, Next.js, VueJS, HTML, CSS). Utilisation de bibliothèques et frameworks CSS (Tailwind CSS, Bootstrap, Shadcn).
+- **Développement Back-end** : Développement d'applications/sites web et d'API REST (Java, Symfony, PHP modèle MVC, Node.js avec Express.js, Python avec Flask).
+- **Développement Mobile** : Création d'applications avec Flutter.
+- **Base de données** : Conception et administration de bases de données relationnelles (PostgreSQL, MySQL, MariaDB).
+- **Conteneurisation** : Déploiement et maintenance d’environnements isolés avec Docker.
+- **Outils & CMS** : Maquettage UI/UX sur Figma, création de sites via WordPress. Utilisation quotidienne de Git, GitHub et Visual Studio Code.
 
 ---
 
