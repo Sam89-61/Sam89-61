@@ -14,7 +14,7 @@ Je suis particulièrement motivé par la résolution d'incidents, la gestion d'i
 
 ```yaml
 Profil: Technicien Informatique, Support IT, Systèmes & Réseaux
-Statut: 🔍 Recherche d'une alternance pour une Licence STS Réseaux & Cybersécurité
+Statut: 🔍 Recherche d'une alternance pour dans le domaine de IT
 Disponibilité: Rentrée de septembre 2026
 Localisation: Normandie, France 🇫🇷
 ```
@@ -24,8 +24,6 @@ Localisation: Normandie, France 🇫🇷
 ## 💼 Recherche d'Alternance
 
 > **📍 Alternance en Support IT, Administration Systèmes & Réseaux** : À partir de Septembre 2026
-> 
-> Je recherche activement une entreprise en alternance pour réaliser ma **Licence STS Réseaux & Cybersécurité (bac+3)**. Mon objectif principal est de mettre en pratique mes compétences en **Support Utilisateurs (N1)**, de gérer des infrastructures (Windows Server, Linux) et d'assurer la maintenance du réseau, tout en apportant mon regard sur la sécurité (acquis via mes labs personnels et TryHackMe).
 
 ---
 
